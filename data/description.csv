@@ -1,9 +1,9 @@
 label,sublabel,description,styles,bgcolor
-びん,,,,#2dc7a9
-缶,,,,#77ae1e
-段ボール・紙製容器,,,,#77ae1e
-ペットボトル,,,,#81d12d
-蛍光灯,,,#27a046
-プラ,,,,#08b924
-燃やせる,,,,#ea3b12
-燃やせない,,,,#733b95
+びん,,,img/bin.svg,#2dc7aa
+缶,,,img/shigen.svg,#77ae1f
+段ボール・紙製容器,,,img/shigen.svg,#77ae1f
+ペットボトル,,,img/shigen.svg,#81d12e
+蛍光灯,,,img/shigen.svg,#27a047
+プラ,,,img/shigen.svg,#08b925
+燃やせる,,,img/moyasu.svg,#ea3b13
+燃やせない,,,img/moyasanai.svg,#733b96
